@@ -1,24 +1,25 @@
 # 🏆 Senior Android Capstone Projects
 
-This repository contains real senior-level Android applications built by Moe Kyaw Aung as part of the public senior roadmap (Repository 1).
+This repository holds real senior-level Android applications built by Moe Kyaw Aung as part of the public roadmap (Repository 1).
 
-Each project demonstrates:
-- Multi-module architecture
-- 100% Jetpack Compose UI
-- Thorough testing
-- CI/CD with GitHub Actions
-- Performance optimizations
+Every project follows industry best practices expected from a Senior Android Engineer at Google, Meta or Uber.
 
-## Projects List
+## Current Projects
 
-1. **Compose Design System** (Current)
-   - Reusable UI library with theming, animations, dark mode
-   - Link: (will be added after creation)
+### 1. Compose Design System (In Progress)
+- Fully reusable UI component library
+- Material 3 theming, dark mode, animations, accessibility
+- Zero XML, full Compose Navigation, Hilt, Room
+- Link: /projects/compose-design-system
 
-2. **KMP Weather App** (Next)
-   - Shared business logic between Android & iOS
+### 2. KMP Weather Application (Next)
+- Shared logic between Android and iOS using Kotlin Multiplatform
+- SQLDelight + Ktor + Compose Multiplatform
 
-3. **Performance Lab** (Later)
-   - Benchmark suite showing 60fps + low memory usage
+### 3. Performance Lab Suite (Later)
+- Macrobenchmark, Baseline Profiles, JankStats examples
+- APK size reduction techniques
 
-**All projects are linked from my portfolio (Repository 2) and dashboard (Repository 3).**
+**All projects are showcased on my portfolio (Repository 2) and tracked on the dashboard (Repository 3).**
+
+**LinkedIn Profile:** https://www.linkedin.com/in/moe-kyaw-aung-2653093a1
